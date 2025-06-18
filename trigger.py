@@ -13,7 +13,6 @@ HEADERS = {
 }
 
 WORKFLOWS = [
-    {"repo": "piso_exp", "workflow": "att10.yml"},
     {"repo": "queue_list", "workflow": "att10.yml"},
 ]
 
